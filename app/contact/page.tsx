@@ -1,0 +1,1 @@
+'use client';\n\nimport ContactForm from '@/components/contact/ContactForm';\n\nexport default function ContactPage() {\n  return (\n    <main className=\"min-h-screen\">\n      <ContactForm />\n    </main>\n  );\n}\n
